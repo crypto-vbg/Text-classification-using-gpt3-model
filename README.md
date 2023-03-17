@@ -30,4 +30,4 @@ using the command
 
 ## References
 
-- Mihaila, G. (2020). GPT-2 Fine-Tuning for Text Classification [Tutorial]. Retrieved March 17, 2023, from https://gmihaila.github.io/tutorial_notebooks/gpt2_finetune_classification/
+- Mihaila, G. (2020). GPT-2 Fine-Tuning for Text Classification [Tutorial]. Retrieved March 10, 2023, from https://gmihaila.github.io/tutorial_notebooks/gpt2_finetune_classification/
