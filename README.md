@@ -27,3 +27,7 @@ using the command
 9. Fine-tune the GPT-2 model on the preprocessed dataset by running the script **gpt2_classification.py** using the command python `gpt2_classification.py`
 
 10. After the fine-tuning is complete, evaluate the performance of the model on the test set by running the script **evaluate_classification.py** using the command `python evaluate_classification.py`
+
+## References
+
+- Mihaila, G. (2020). GPT-2 Fine-Tuning for Text Classification [Tutorial]. Retrieved March 17, 2023, from https://gmihaila.github.io/tutorial_notebooks/gpt2_finetune_classification/
